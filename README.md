@@ -44,6 +44,10 @@ Ride the rocket!
 
 Water Access
 
+- Clear water
+
+![Clear water](https://github.com/denisecase/johnson-family-cabin/blob/master/images/land-photos/20200804_100600_HDR.jpg)
+
 - Until we tame the land, come drop in kayaks, canoes, and more at the convenient boat access (just over the hill and though the woods - or a short drive) at Bear Head Lake State Park Public Access.
 
 Eagle Viewing
