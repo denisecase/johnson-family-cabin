@@ -61,5 +61,6 @@ Come see:
 
 ## More
 
-- [Explore photos](mls.md)
 - [Get context](context.md)
+- [Explore photos](mls.md)
+
