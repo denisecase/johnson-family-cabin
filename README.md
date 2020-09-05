@@ -2,7 +2,7 @@
 
 > Adventures in Northern Minnesota
 
-![Listing](images/listing-overview.PNG)
+![From above](images/mls-photos/6091816-28.jpg)
 
 Raw land, lakeshore, with building site option among towering red pines. Slopes to clear water shoreline with mix of sandy and rocky lake bottom. 
 Perfect for kakaks, fishing, kids, grandkids, and great-grandkids.
