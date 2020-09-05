@@ -47,6 +47,8 @@ Water Access
 
 - Until we tame the land, come drop in kayaks, canoes, and more at the convenient boat access (just over the hill and though the woods - or a short drive) at Bear Head Lake State Park Public Access.
 
+- Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
+
 Eagle Viewing
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
