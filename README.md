@@ -52,9 +52,7 @@ Eagle Viewing
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
 
+## Photos
 
-
-
-
-
-
+- [MLS photos](mls.md)
+- [More photos](photos.md)
