@@ -37,11 +37,11 @@ Come see:
 - Bruce's Backwoods - kept in the original state, home for wildlife of all species
 - The Brothers - two stately pines, with family pines nearby 
 
-Ride the rocket!
+## Ride the rocket!
 
 - We'll need some help to work the land. Come ride [The Rocket](https://ranger.polaris.com/en-us/ranger-crew-570/)!
 
-Water Access
+## Water Access
 
 ![Clear water](https://github.com/denisecase/johnson-family-cabin/blob/master/images/land-photos/20200804_100600_HDR.jpg)
 
@@ -49,7 +49,7 @@ Water Access
 
 - Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
 
-Eagle Viewing
+## Eagle Viewing
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
 
