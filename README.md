@@ -34,7 +34,7 @@ Come see:
 - Isla's Inlet - a nice place to drop your kayak and safely explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
-- Bruce's Backwoods - kept in the original state, home for wildlife of all species
+- Bruce's Backwoods - kept in the original wild state, home for wildlife of many species
 - The Brothers - two stately pines, with family pines nearby 
 
 ## Ride the rocket!
@@ -49,9 +49,11 @@ Come see:
 
 - Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
 
-## Eagle Viewing
+## Local Wildlife
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
+- Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, and [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
+[132 species of birds](https://www.bearstudy.org/website/about-wri/wildlife-seen/birds.html), and [more](https://www.bearstudy.org/website/about-wri/wildlife-seen/other.html).
 
 ## Photos
 
