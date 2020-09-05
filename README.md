@@ -4,6 +4,9 @@
 
 ![Listing](images/listing-overview.PNG)
 
+Raw land, lakeshore, with building site option among towering red pines. Slopes to clear water shoreline with mix of sandy and rocky lake bottom. 
+Perfect for kakaks, fishing, kids, grandkids, and great-grandkids.
+
 ## Currently
 
 Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
