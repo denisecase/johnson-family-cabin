@@ -14,9 +14,9 @@ Less than five hours from White Bear Lake, on the way into Ely.
 
 ## Coming Soon
 
-Working with our builder, Joe Gerzin, to build a window-front chalet, overlooking the land. 
+Working with the builder, [Joe Gerzin](https://www.elywoodwizardsllc.com/), to build a window-front chalet, overlooking the land. 
 
-Lower has 2-bedrooms, 2-full baths: "Little Finland" and "Da Norge" offer a spacious retreat room and a jumping off spot to adventures.
+Lower level has [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). "Little Finland" and "Da Norge" offer a spacious retreat room and a jumping off spot to adventures.
 
 Look-out loft holds "Camp Connie" a great place for the younguns to sleep out - or pitch a tent. 
 
