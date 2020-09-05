@@ -2,8 +2,6 @@
 
 > Adventures in Northern Minnesota
 
-Raw land, lakeshore, building site option among towering red pines. Slopes to clear water shoreline with mix of sandy and rocky lake bottom. 
-
 ## Currently
 
 Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
