@@ -40,7 +40,7 @@ Come see:
 
 Ride the rocket!
 
-- We'll need some help to work the land. Come ride The Rocket!
+- We'll need some help to work the land. Come ride [The Rocket](https://ranger.polaris.com/en-us/ranger-crew-570/)!
 
 Water Access
 
