@@ -55,4 +55,3 @@ Eagle Viewing
 ## Photos
 
 - [MLS photos](mls.md)
-- [More photos](photos.md)
