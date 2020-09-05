@@ -54,6 +54,8 @@ Come see:
 
 - Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
 
+![Lakes]()
+
 ## Local Wildlife
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
