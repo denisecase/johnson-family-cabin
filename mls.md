@@ -82,4 +82,4 @@
 
 ![41](images/mls-photos/6091816-41.jpg)
 
-![42](images/Screen%20Shotn%202020-08-05n%20atn%2012.51.03n%20PM.png)
+![42](https://raw.githubusercontent.com/denisecase/johnson-family-cabin/master/images/Screen%20Shot%202020-08-05%20at%2012.51.03%20PM.png)
