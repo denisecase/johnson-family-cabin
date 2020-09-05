@@ -6,9 +6,9 @@
 
 Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
 
-Halfway between Tower and Ely.
+Halfway [between Tower and Ely](images/maps/Maps-MN-IronRange-Tower-Ely.PNG).
 
-Lake shore access to Eagles Nest Lake 2 (for twins!)
+Lake shore access to Eagles Nest Lake 2 (two for twins!)
 
 Less than five hours from White Bear Lake, on the way into Ely. 
 
@@ -45,6 +45,12 @@ Ride the rocket!
 Water Access
 
 - Until we tame the land, come drop in kayaks, canoes, and more at the convenient boat access (just over the hill and though the woods - or a short drive) at Bear Head Lake State Park Public Access.
+
+Eagle Viewing
+
+- Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
+
+
 
 
 
