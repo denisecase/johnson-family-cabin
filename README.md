@@ -1,7 +1,6 @@
-# johnson-family-cabin
-Adventures in Northern Minnesota
+# Johnson Family Cabin
 
->  Coming soon! Johnson Family Cabin
+> Adventures in Northern Minnesota
 
 ## Currently
 
