@@ -59,6 +59,7 @@ Come see:
 - Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
 [132 species of birds](https://www.bearstudy.org/website/about-wri/wildlife-seen/birds.html), and [more](https://www.bearstudy.org/website/about-wri/wildlife-seen/other.html).
 
-## Photos
+## More
 
 - [Explore photos](mls.md)
+- [Get context](context.md)
