@@ -52,7 +52,7 @@ Come see:
 ## Local Wildlife
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
-- Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, and [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
+- Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
 [132 species of birds](https://www.bearstudy.org/website/about-wri/wildlife-seen/birds.html), and [more](https://www.bearstudy.org/website/about-wri/wildlife-seen/other.html).
 
 ## Photos
