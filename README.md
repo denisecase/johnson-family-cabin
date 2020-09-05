@@ -64,6 +64,7 @@ Come see:
 - [Boundary Waters Canoe Area Wilderness](https://www.youtube.com/watch?v=nen7lRqEjm8)
 - [Superior National Forest](https://itsallyours.us/)
 - [Bear Head Lake State Park](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage)
+- [Mesabi Trail](https://www.mesabitrail.com/)
 
 ## More
 
