@@ -61,4 +61,4 @@ Come see:
 
 ## Photos
 
-- [MLS photos](mls.md)
+- [Explore photos](mls.md)
