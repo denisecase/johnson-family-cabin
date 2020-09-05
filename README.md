@@ -10,7 +10,7 @@ Halfway [between Tower and Ely](images/maps/Maps-MN-IronRange-Tower-Ely.PNG).
 
 Lake shore access to Eagles Nest Lake 2 (two for twins!)
 
-Less than [five hours from White Bear Lake](images/maps/Maps-MN.PNG), on the way into Ely. 
+Less than [five hours from White Bear Lake](images/maps/Maps-MN.PNG), on the way into Ely ([Google Maps driving directions](https://www.google.com/maps/dir/1875+County+Rd+F+East,+White+Bear+Lake,+MN+55110/47.8243368,-92.1170224/@47.7708408,-92.0482438,11.79z/data=!4m9!4m8!1m5!1m1!1s0x52b2d12f0017c993:0x4a3c9f81c6a3acc7!2m2!1d-93.021061!2d45.065259!1m0!3e0)). 
 
 ## Coming Soon
 
