@@ -54,7 +54,7 @@ Come see:
 
 - Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
 
-![Lakes]()
+![Lakes](images/Maps-NatlGeo.PNG)
 
 ## Local Wildlife
 
