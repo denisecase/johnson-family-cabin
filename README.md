@@ -28,16 +28,16 @@ Hall Hall takes you through the home to the open gathering area up front.
 
 Come see:
 
-- The Twins - tall twin pines overlooking the adventures, with their beloved partners nearby
+- The Twins - twin tall pines overlooking adventures with their beloved partners
 - Lilly's Lookout - an expansive view of the adventure land
 - Eden's Edge - an exciting rocky wall for climbing and fossil exploration
 - Nora's Nook - a secret, special spot in the forest 
 - Mount Emmett - a high spot for exploration
-- Isla's Inlet - a nice place to drop your kayak and safely explore the gentle increase to deeper waters
+- Isla's Inlet - a place to drop your kayak and explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
-- Bruce's Backwoods - kept in the original wild state, home for wildlife of many species
-- The Brothers - two stately pines, with family pines nearby 
+- Bruce's Backwoods - raw wilderness, home for wildlife of many species
+- The Brothers - stately pines guarding the land, beloved family nearby    
 
 ## Ride the rocket!
 
