@@ -61,7 +61,9 @@ Come see:
 
 - [Lake Vermillion / Tower](https://www.lakevermilionchamber.com/)
 - [Ely](https://www.ely.org/)
+- [Boundary Waters Canoe Area Wilderness](https://www.youtube.com/watch?v=nen7lRqEjm8)
 - [Superior National Forest](https://itsallyours.us/)
+- [Bear Head Lake State Park](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage)
 
 ## More
 
