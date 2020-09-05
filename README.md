@@ -4,7 +4,7 @@
 
 ## Currently
 
-Two acres of beautiful forest, adjoining Bear Head State Park. 
+Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
 
 Halfway between Tower and Ely.
 
@@ -20,7 +20,7 @@ Lower has 2-bedrooms, 2-full baths: "Little Finland" and "Da Norge" offer a spac
 
 Look-out loft holds "Camp Connie" a great place for the younguns to sleep out - or pitch a tent. 
 
-Hall Hall takes you from the attached garage into wall of windows in the front. 
+Hall Hall takes you through the home to the open gathering area in the front. 
 
 
 
@@ -28,7 +28,7 @@ Hall Hall takes you from the attached garage into wall of windows in the front.
 
 Come see:
 
-- The Twins - two stately pines overlooking the adventures, with their beloved partners nearby
+- The Twins - tall twin pines overlooking the adventures, with their beloved partners nearby
 - Lilly's Lookout - an expansive view of the adventure land
 - Eden's Edge - an exciting rocky wall for climbing and fossil exploration
 - Nora's Nook - a secret, special spot in the forest 
@@ -38,6 +38,7 @@ Come see:
 - Madelyn Lane - a scenic drive on the way to the lake
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
 - Bruce's Backwoods - kept in the original state, home for wildlife of all species
+- The Brothers - two stately pines, with family pines nearby 
 
 Ride the rocket!
 
