@@ -16,13 +16,11 @@ Less than five hours from White Bear Lake, on the way into Ely.
 
 Working with the builder, [Joe Gerzin](https://www.elywoodwizardsllc.com/), to build a window-front chalet, overlooking the land. 
 
-Lower level has [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). "Little Finland" and "Da Norge" offer a spacious retreat room and a jumping off spot to adventures.
+Lower level has [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). Both bedrooms, "Little Finland" and "Da Norge", offer a nice jumping off spot to adventures.
 
-Look-out loft holds "Camp Connie" a great place for the younguns to sleep out - or pitch a tent. 
+Look-out loft holds carpeted "Camp Connie" - a great place for the younguns to sleep out - or pitch a tent. 
 
-Hall Hall takes you through the home to the open gathering area in the front. 
-
-
+Hall Hall takes you through the home to the open gathering area up front. 
 
 ## Explore!
 
