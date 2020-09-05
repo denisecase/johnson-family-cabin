@@ -31,7 +31,6 @@ Come see:
 - Eden's Edge - an exciting rocky wall for climbing and fossil exploration
 - Nora's Nook - a secret, special spot in the forest 
 - Mount Emmett - a high spot for exploration
-- Isla Vista (baby!) - the perfect view to overlook the land
 - Isla's Inlet - a nice place to drop your kayak and safely explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
