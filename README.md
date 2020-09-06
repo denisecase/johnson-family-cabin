@@ -92,6 +92,7 @@ We are grateful for his ongoing help with:
 - Land usage
 - Logistics
 - Local history
+- Family stories
 - Knowledge and resources on flora, fauna, geology
 - Adventure planning
 - Conservation and land management
