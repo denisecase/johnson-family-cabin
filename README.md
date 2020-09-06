@@ -95,7 +95,7 @@ We are grateful for his ongoing help with:
 - Adventure planning
 - Conservation and land management
 - Stewardship
-- Postiive attitude/outlook
+- Positive attitude/outlook
 - Good humor
 - Vision and mission
 
