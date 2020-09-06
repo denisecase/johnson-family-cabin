@@ -16,24 +16,24 @@ Only [4-5 hours from White Bear Lake](images/maps/Maps-MN.PNG), on the way into 
 
 Working with the builder, [Joe Gerzin](https://www.elywoodwizardsllc.com/), to build a window-front chalet, overlooking the land. 
 
-Lower level has [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). Both bedrooms, "Little Finland" and "Da Norge", offer a nice jumping off spot to adventures.
+Lower level will have [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). Both bedrooms, "Little Finland" and "Da Norge", offer a nice jumping off spot to adventures.
 
-Look-out loft holds carpeted "Camp Connie" - a great place for the young'uns to sleep out, pitch tents, read, and plan adventures. 
+The look-out loft will host "Camp Connie" - a great place for young'uns to sleep out, pitch tents, read, and plan adventures. 
 
-Hall Hall takes you through the home to the open gathering area up front. 
+Come in through "Eleanor's Entrance" and follow "Hall Hall" to the open gathering area up front. 
 
 ## Explore!
 
 Come see:
 
-- The Twins - twin tall pines overlooking adventures with beloved partners
+- The Twins - a most special pair of pines overlooking adventures, beloved partners nearby
 - Lilly's Lookout - an expansive view of the adventure land
 - Eden's Edge - an exciting rocky wall for climbing and fossil exploration
 - Nora's Nook - a secret, special spot in the forest 
 - Mount Emmett - a high spot for exploration
 - Isla's Inlet - a place to drop your kayak and explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
-- The Brothers Two - stately pines guarding the view, growing family nearby 
+- The Brothers Two - two stately pines guarding the view with a copse of their own  
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
 - Bruce's Backwoods - kept as raw wilderness for the most courageous adventurers
     
@@ -78,8 +78,8 @@ The Johnson Family Cabin is honored to have its own dedicated Ranger ("Grampa") 
 
 We are grateful for his ongoing help with:
 
-- Advising 
 - Encouragement
+- Advising
 - Site selection
 - Local contacts
 - Topographical overlays
@@ -96,7 +96,8 @@ We are grateful for his ongoing help with:
 - Adventure planning
 - Conservation and land management
 - Stewardship
-- Positive attitude/outlook
+- Amazing attitude & outlook
+- Quick wit
 - Good humor
 - Vision and mission
 
@@ -105,6 +106,4 @@ May the legacy of our extended Johnson family bring many happy memories!
 ## With Love
 
 Grandma Neece
-
-
 
