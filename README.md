@@ -18,7 +18,7 @@ Working with the builder, [Joe Gerzin](https://www.elywoodwizardsllc.com/), to b
 
 Lower level has [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). Both bedrooms, "Little Finland" and "Da Norge", offer a nice jumping off spot to adventures.
 
-Look-out loft holds carpeted "Camp Connie" - a great place for the younguns to sleep out, pitch tents, read, and plan adventures. 
+Look-out loft holds carpeted "Camp Connie" - a great place for the young'uns to sleep out, pitch tents, read, and plan adventures. 
 
 Hall Hall takes you through the home to the open gathering area up front. 
 
