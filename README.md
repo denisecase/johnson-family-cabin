@@ -26,17 +26,17 @@ Hall Hall takes you through the home to the open gathering area up front.
 
 Come see:
 
-- The Twins - twin tall pines overlooking adventures with their beloved partners
+- The Twins - twin tall pines overlooking adventures with beloved partners
 - Lilly's Lookout - an expansive view of the adventure land
 - Eden's Edge - an exciting rocky wall for climbing and fossil exploration
 - Nora's Nook - a secret, special spot in the forest 
 - Mount Emmett - a high spot for exploration
 - Isla's Inlet - a place to drop your kayak and explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
+- The Brothers Two - stately pines guarding the view, growing family nearby 
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
-- Bruce's Backwoods - raw wilderness, home for wildlife of many species
-- The Brothers - stately pines guarding the land, beloved family nearby    
-
+- Bruce's Backwoods - kept as raw wilderness for the most courageous adventurers
+    
 ## Ride the rocket!
 
 - We'll need some help to work the land. Come ride [The Rocket](https://ranger.polaris.com/en-us/ranger-crew-570/)!
@@ -67,8 +67,43 @@ Come see:
 - [Mesabi Trail](https://www.mesabitrail.com/)
 - [Eagles Nest Lake 3 (video)](https://www.youtube.com/watch?v=vdogSHS_yFM)
 
-## More
+## See
 
 - [Get context](context.md)
 - [Explore photos](mls.md)
+
+## Best of All
+
+The Johnson Family Cabin is honored to have its own dedicated Ranger ("Grampa") Bruce.  See him to explore, enjoy, and learn! 
+
+We are grateful for his ongoing help with:
+
+- Advising 
+- Encouragement
+- Site selection
+- Local contacts
+- Topographical overlays
+- Decision support
+- Initial exploration
+- Evolving blueprints
+- Builder coordination
+- Procurement planning
+- Land usage
+- Logistics
+- Local history
+- Knowledge and resources on flora, fauna, geology
+- Adventure planning
+- Conservation and land management
+- Stewardship
+- Postiive attitude/outlook
+- Good humor
+- Vision and mission
+
+May the legacy of our extended Johnson family bring many happy memories!
+
+## With Love
+
+Grandma Neece
+
+
 
