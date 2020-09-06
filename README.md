@@ -88,6 +88,7 @@ We are grateful for his ongoing help with:
 - Evolving blueprints
 - Builder coordination
 - Procurement planning
+- Construction management
 - Land usage
 - Logistics
 - Local history
