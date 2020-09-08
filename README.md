@@ -59,12 +59,6 @@ Come see:
 
 ## Nearby
 
-- [Lake Vermillion / Tower](https://www.lakevermilionchamber.com/)
-- [Ely](https://www.ely.org/)
-- [Boundary Waters Canoe Area Wilderness (welcome video)](https://www.youtube.com/watch?v=nen7lRqEjm8)
-- [Superior National Forest](https://itsallyours.us/)
-- [Bear Head Lake State Park](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage)
-- [Mesabi Trail](https://www.mesabitrail.com/)
 - [Eagles Nest Lake 3 (video)](https://www.youtube.com/watch?v=vdogSHS_yFM)
 
 ## See
@@ -103,5 +97,4 @@ We are grateful for his ongoing help with:
 - Vision and mission
 
 May the legacy of our extended Johnson family bring many happy memories!
-
 
