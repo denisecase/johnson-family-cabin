@@ -104,7 +104,4 @@ We are grateful for his ongoing help with:
 
 May the legacy of our extended Johnson family bring many happy memories!
 
-## With Love
-
-Grandma Neece
 
