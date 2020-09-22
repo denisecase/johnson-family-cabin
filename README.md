@@ -33,9 +33,10 @@ Come see:
 - Mount Emmett - a high spot for exploration
 - Isla's Inlet - a place to drop your kayak and explore the gentle increase to deeper waters
 - Madelyn Lane - a scenic drive on the way to the lake
-- The Brothers Two - two stately pines guarding the view with a copse of their own  
+- The Brothers - two stately pines guarding the view with a copse of their own  
 - Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
 - Bruce's Backwoods - kept as raw wilderness for the most courageous adventurers
+- The Shack - a place to dock the Rocket
     
 ## Ride the rocket!
 
