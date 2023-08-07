@@ -58,6 +58,37 @@ Come see:
 - Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
 [132 species of birds](https://www.bearstudy.org/website/about-wri/wildlife-seen/birds.html), and [more](https://www.bearstudy.org/website/about-wri/wildlife-seen/other.html).
 
+## Animals Seen On-Site
+
+Arthropods
+
+- Crawdads/Crayfish
+- [Dark Fishing Spider (largest spider in MN)](https://a-z-animals.com/blog/5-of-the-biggest-spiders-in-minnesota/)
+
+Birds
+
+- [Common loon](https://www.dnr.state.mn.us/birds/commonloon.html)
+- [Ducks, Mallard](https://upload.wikimedia.org/wikipedia/commons/c/c0/Female_Mallard_with_ducklings.jpg)
+- [Woodpecker, Downy(?)](https://www.dnr.state.mn.us/birds/woodpeckers.html)
+- [Woodpecker, Pileated](https://www.dnr.state.mn.us/birds/woodpeckers.html)
+
+Mammals
+
+- Bear, Black
+- [Chipmunks](https://www.dnr.state.mn.us/mammals/chipmunk.html)
+- Deer
+- Fox, Red
+- Mink (GGPa 8-7-23)
+- [Otter, River](https://www.dnr.state.mn.us/mammals/riverotter.html)
+- Wolf, Gray
+
+Reptiles & amphibians
+
+- Crawdads
+- Garter snakes
+- [Toad, American](https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/toads/american.html)
+- Turtles
+
 ## Nearby
 
 - [Eagles Nest Lake 3 (video)](https://www.youtube.com/watch?v=vdogSHS_yFM)
