@@ -2,7 +2,7 @@
 
 > Adventures in Northern Minnesota
 
-## Currently
+## So Far
 
 Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
 
@@ -12,15 +12,13 @@ Lake shore on [Eagles Nest Lake 2](images/maps/Maps-Sat.PNG) (two for twins!)
 
 Only [4-5 hours from White Bear Lake](images/maps/Maps-MN.PNG), on the way into [Ely](https://www.elyminnesota.com/) - see [driving directions](https://www.google.com/maps/dir/1875+County+Rd+F+East,+White+Bear+Lake,+MN+55110/47.8243368,-92.1170224/@47.7708408,-92.0482438,11.79z/data=!4m9!4m8!1m5!1m1!1s0x52b2d12f0017c993:0x4a3c9f81c6a3acc7!2m2!1d-93.021061!2d45.065259!1m0!3e0). 
 
-## Coming Soon
+## Planned Cabin
 
-Working with the builder, [Joe Gerzin](https://www.elywoodwizardsllc.com/), to build a window-front chalet, overlooking the land. 
+As of August 2023
 
-Lower level will have [2-bedrooms, 2-full baths](images/Chalet%20mod%204.jpg). Both bedrooms, "Little Finland" and "Da Norge", offer a nice jumping off spot to adventures.
+- [Current Plans and Elevations](2023-08-07-plans-and-elevations/README.md)
 
-The look-out loft will host "Camp Connie" - a great place for young'uns to sleep out, pitch tents, read, and plan adventures. 
 
-Come in through "Eleanor's Entrance" and follow "Hall Hall" to the open gathering area up front. 
 
 ## Explore!
 
