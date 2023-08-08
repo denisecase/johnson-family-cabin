@@ -10,14 +10,15 @@
 
 [1424_trygg_ely_elevation_facing_west_state_land_23-08-07.pdf](1424_trygg_ely_elevation_facing_west_state_land_23-08-07.pdf)
 
-## Main Level
+## Plan -  Main Level
 
 [1424_trygg_ely_plan_main_level_23-08-07.pdf](1424_trygg_ely_plan_main_level_23-08-07.pdf)
 
-Extend the main bathroom nearly the full length of the stairs
-
-[1424_trygg_ely_plan_main_level_23-08-07-RevisedLargerBathroom.pdf](1424_trygg_ely_plan_main_level_23-08-07-RevisedLargerBathroom.pdf)
-
-## Attic Truss Upper Level
+## Plan - Attic Truss Upper Level
 
 [1424_trygg_ely_plan_upper_level_attic_truss_23-08-07.pdf](1424_trygg_ely_plan_upper_level_attic_truss_23-08-07.pdf)
+
+
+## Interior
+
+[1424_trygg_ely_interior_west_wall_living_room_23-08-08.pdf](1424_trygg_ely_interior_west_wall_living_room_23-08-08.pdf)
