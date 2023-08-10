@@ -2,17 +2,17 @@
 
 ## 4 Elevations 
 
-[1424_trygg_ely_elevation_facing_north_road_23-08-07.pdf](1424_trygg_ely_elevation_facing_north_road_23-08-07.pdf)
+[1424_trygg_ely_elevation_facing_north_road_23-08-10.pdf](1424_trygg_ely_elevation_facing_north_road_23-08-10.pdf)
 
-[1424_trygg_ely_elevation_facing_east_23-08-07](1424_trygg_ely_elevation_facing_east_23-08-07.pdf)
+[1424_trygg_ely_elevation_facing_east_23-08-10](1424_trygg_ely_elevation_facing_east_23-08-10.pdf)
 
 [1424_trygg_ely_elevation_facing_south_lake_23-08-07.pdf](1424_trygg_ely_elevation_facing_south_lake_23-08-07.pdf)
 
-[1424_trygg_ely_elevation_facing_west_state_land_23-08-07.pdf](1424_trygg_ely_elevation_facing_west_state_land_23-08-07.pdf)
+[1424_trygg_ely_elevation_facing_west_state_land_23-08-10.pdf](1424_trygg_ely_elevation_facing_west_state_land_23-08-10.pdf)
 
 ## Plan -  Main Level
 
-[1424_trygg_ely_plan_main_level_23-08-07.pdf](1424_trygg_ely_plan_main_level_23-08-07.pdf)
+[1424_trygg_ely_plan_main_level_23-08-10.pdf](1424_trygg_ely_plan_main_level_23-08-10.pdf)
 
 ## Plan - Attic Truss Upper Level
 
