@@ -12,7 +12,7 @@
 - [2021_10_04_550_SepticDesign_Denise_Case_invoice.doc](2021_10_04_550_SepticDesign_Denise_Case_invoice.docx)
 - [2021_10_04_550_SepticDesign_Denise_Case_invoice.pdf](2021_10_04_550_SepticDesign_Denise_Case_invoice.pdf)
 - [2021_10_04_SepticDesignPermit_Denise_Case_design.pdf](2021_10_04_SepticDesignPermit_Denise_Case_design.pdf)
-- [2021_10_12_AlternateSepticBid(didnotwin)_Gerzin Estimate-12101.pdf](2021_10_12_AlternateSepticBid(didnotwin)_Gerzin Estimate-12101.pdf)
+- [2021_10_12_AlternateSepticBid_didnotwin_Gerzin Estimate-12101.pdf](2021_10_12_AlternateSepticBid_didnotwin_Gerzin Estimate-12101.pdf)
 - [2021_10_30_329_88Inv_5071_from_Burntside_Electric_Inc__13256.pdf](2021_10_30_329_88Inv_5071_from_Burntside_Electric_Inc__13256.pdf)
 - [Est_202120_from_Gerzin_Construction_584022_13084.pdf](Est_202120_from_Gerzin_Construction_584022_13084.pdf)
 - [Invoice_1015-Septic1of2-48945.pdf](Invoice_1015-Septic1of2-48945.pdf)
