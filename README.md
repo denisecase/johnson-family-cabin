@@ -10,7 +10,7 @@ Halfway [between Tower and Ely](images/maps/Maps-MN-IronRange-Tower-Ely.PNG).
 
 Lake shore on [Eagles Nest Lake 2](images/maps/Maps-Sat.PNG) (two for twins!)
 
-Only [4-5 hours from White Bear Lake](images/maps/Maps-MN.PNG), on the way into [Ely](https://www.elyminnesota.com/) - see [driving directions](https://www.google.com/maps/dir/1875+County+Rd+F+East,+White+Bear+Lake,+MN+55110/47.8243368,-92.1170224/@47.7708408,-92.0482438,11.79z/data=!4m9!4m8!1m5!1m1!1s0x52b2d12f0017c993:0x4a3c9f81c6a3acc7!2m2!1d-93.021061!2d45.065259!1m0!3e0). 
+Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 
 ## Planned Cabin
 
@@ -31,20 +31,21 @@ As of August 2023
 Come see:
 
 - The Twins - a most special pair of pines overlooking adventures, beloved partners nearby
-- Lilly's Lookout - an expansive view of the adventure land
-- Eden's Edge - an exciting rocky wall for climbing and fossil exploration
-- Nora's Nook - a secret, special spot in the forest 
+- Lilly's Lookout - offering an expansive view of the adventure land
+- Eden's Edge - an exciting rocky ascent
+- Nora's Nook - a special spot in the forest 
 - Mount Emmett - a high spot for exploration
-- Isla's Inlet - a place to drop your kayak and explore the gentle increase to deeper waters
+- Isla's Isle - a fun little island
 - Madelyn Lane - a scenic drive on the way to the lake
 - The Brothers - two stately pines guarding the view with a copse of their own  
-- Marilyn's Meditation Meadow - a quiet place for reflection and gratitude
-- Bruce's Backwoods - kept as raw wilderness for the most courageous adventurers
-- The Shack - a place to dock the Rocket
+- Marilyn's Meadow - a quiet place for reflection and gratitude
+- Ranger's Review - a place to watch the state land wilderness
+- The Shack - a place to dock the ATV
+- The Dock - overlook the boat launch, lake, and set sail in boat, kayak, or floatie
     
-## Ride the rocket!
+## Ride the ATV!
 
-- We'll need some help to work the land. Come ride [The Rocket](https://ranger.polaris.com/en-us/ranger-crew-570/)!
+- We'll need some help to work the land. Come ride [The ATV](https://ranger.polaris.com/en-us/ranger-crew-570/)!
 
 ## Water Access
 
@@ -115,11 +116,12 @@ We are grateful for his ongoing help with:
 - Topographical overlays
 - Decision support
 - Initial exploration
-- Evolving blueprints
-- Builder coordination
+- Drafing blueprints
 - Procurement planning
 - Construction management
 - Land usage
+- Clearing and path construction
+- Logging
 - Logistics
 - Local history
 - Family stories
