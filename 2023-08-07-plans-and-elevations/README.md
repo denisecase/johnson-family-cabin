@@ -6,7 +6,7 @@
 
 [1424_trygg_ely_elevation_facing_east_23-08-16](1424_trygg_ely_elevation_facing_east_23-08-16.pdf)
 
-[1424_trygg_ely_elevation_facing_south_lake_23-08-07.pdf](1424_trygg_ely_elevation_facing_south_lake_23-08-20.pdf)
+[1424_trygg_ely_elevation_facing_south_lake_23-08-20.pdf](1424_trygg_ely_elevation_facing_south_lake_23-08-20.pdf)
 
 [1424_trygg_ely_elevation_facing_west_state_land_23-08-11.pdf](1424_trygg_ely_elevation_facing_west_state_land_23-08-11.pdf)
 
