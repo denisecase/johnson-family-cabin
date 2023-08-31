@@ -16,4 +16,5 @@
 - [2021_10_30_329_88Inv_5071_from_Burntside_Electric_Inc__13256.pdf](2021_10_30_329_88Inv_5071_from_Burntside_Electric_Inc__13256.pdf)
 - [Est_202120_from_Gerzin_Construction_584022_13084.pdf](Est_202120_from_Gerzin_Construction_584022_13084.pdf)
 - [Invoice_1015-Septic1of2-48945.pdf](Invoice_1015-Septic1of2-48945.pdf)
+- [SWORN](1424_trygg_ely_mn_SWORN_Frandsen_ElyOffice_2023_08_31.pdf)
 
