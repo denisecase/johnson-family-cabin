@@ -17,4 +17,5 @@
 - [Est_202120_from_Gerzin_Construction_584022_13084.pdf](Est_202120_from_Gerzin_Construction_584022_13084.pdf)
 - [Invoice_1015-Septic1of2-48945.pdf](Invoice_1015-Septic1of2-48945.pdf)
 - [SWORN](1424_trygg_ely_mn_SWORN_Frandsen_ElyOffice_2023_08_31.pdf)
+- [WELL](1424_trygg_ely_mn_WELL_Estimate_1952_from_Froe_Bros_Drilling_LLC.pdf)
 
