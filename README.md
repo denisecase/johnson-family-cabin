@@ -25,6 +25,12 @@ As of August 2023
 - Dave Broten, Concrete
 - Don & Mary Midtling, Consultants
 - Marvin Windows
+- Paula - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
+- Dave - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
+
+## Resources
+
+- Metal Sales (Roof) <https://metalsales.renoworks.com/>
 
 ## Explore!
 
