@@ -12,7 +12,7 @@
 
 ## Plan -  Main Level
 
-[1424_trygg_ely_plan_upper_level_attic_truss_23-08-15.pdf](1424_trygg_ely_plan_upper_level_attic_truss_23-08-15.pdf)
+[1424_trygg_ely_plan_main_level_23-08-18-shows5-DaveBrotenforPad.pdf](1424_trygg_ely_plan_main_level_23-08-18-shows5-DaveBrotenforPad.pdf)
 
 ## Plan - Attic Truss Upper Level
 
