@@ -2,6 +2,13 @@
 
 > Adventures in Northern Minnesota
 
+## Planned Cabin
+
+Click here for current drawings:
+
+- [Current Plans and Elevations](2023-08-07-plans-and-elevations/README.md)
+
+
 ## So Far
 
 Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
@@ -12,11 +19,6 @@ Lake shore on [Eagles Nest Lake 2](images/maps/Maps-Sat.PNG) (two for twins!)
 
 Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 
-## Planned Cabin
-
-As of August 2023
-
-- [Current Plans and Elevations](2023-08-07-plans-and-elevations/README.md)
 
 ## Cabin Team
 
@@ -27,6 +29,8 @@ As of August 2023
 - Marvin Windows
 - Paula - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
 - Dave - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
+- Laura - Floor to Ceiling
+- Sue - Froe Bros Drilling LLC (set up Spring 2024 site visit)
 
 ## Resources
 
