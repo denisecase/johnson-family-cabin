@@ -6,8 +6,7 @@
 
 Click here for current drawings:
 
-- [Current Plans and Elevations](2023-08-07-plans-and-elevations/README.md)
-
+- [Current Plans and Elevations](plans-and-elevations/README.md)
 
 ## So Far
 
@@ -19,13 +18,13 @@ Lake shore on [Eagles Nest Lake 2](images/maps/Maps-Sat.PNG) (two for twins!)
 
 Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 
-
 ## Cabin Team
 
-- Travis Russula, Builer, GC
+- Travis Russula, Builder, GC
 - Aaron Jussila, WN Plumbing and Heating
 - Dave Broten, Concrete
 - Don & Mary Midtling, Consultants
+- Joe Gerzin, Wood Wizards, shack and start up
 - Marvin Windows
 - Paula - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
 - Dave - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
@@ -36,9 +35,7 @@ Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 
 - Metal Sales (Roof) <https://metalsales.renoworks.com/>
 
-## Explore!
-
-Come see:
+## Explore
 
 - The Twins - a most special pair of pines overlooking adventures, beloved partners nearby
 - Lilly's Lookout - offering an expansive view of the adventure land
@@ -52,7 +49,7 @@ Come see:
 - Ranger's Review - a place to watch the state land wilderness
 - The Shack - a place to dock the ATV
 - The Dock - overlook the boat launch, lake, and set sail in boat, kayak, or floatie
-    
+
 ## Ride the ATV!
 
 - We'll need some help to work the land. Come ride [The ATV](https://ranger.polaris.com/en-us/ranger-crew-570/)!
@@ -115,7 +112,8 @@ Reptiles & amphibians
 
 ## Best of All
 
-The Johnson Family Cabin is honored to have its own dedicated Ranger ("Grampa") Bruce.  See him to explore, enjoy, and learn! 
+The Johnson Family Cabin is honored to have its own dedicated Ranger ("Grampa") Bruce.  
+See him to explore, enjoy, and learn!
 
 We are grateful for his ongoing help with:
 
@@ -126,7 +124,7 @@ We are grateful for his ongoing help with:
 - Topographical overlays
 - Decision support
 - Initial exploration
-- Drafing blueprints
+- Drafting blueprints
 - Procurement planning
 - Construction management
 - Land usage
@@ -145,4 +143,3 @@ We are grateful for his ongoing help with:
 - Vision and mission
 
 May the legacy of our extended Johnson family bring many happy memories!
-
