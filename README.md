@@ -10,7 +10,7 @@ Click here for current drawings:
 
 ## So Far
 
-Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6). 
+Two acres of beautiful forest, adjoining [Bear Head Lake State Park](https://goo.gl/maps/RFne5uV7ig8XQSCZ6).
 
 Halfway [between Tower and Ely](images/maps/Maps-MN-IronRange-Tower-Ely.PNG).
 
@@ -40,7 +40,7 @@ Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 - The Twins - a most special pair of pines overlooking adventures, beloved partners nearby
 - Lilly's Lookout - offering an expansive view of the adventure land
 - Eden's Edge - an exciting rocky ascent
-- Nora's Nook - a special spot in the forest 
+- Nora's Nook - a special spot in the forest
 - Mount Emmett - a high spot for exploration
 - Isla's Isle - a fun little island
 - Madelyn Lane - a scenic drive on the way to the lake
@@ -50,15 +50,11 @@ Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 - The Shack - a place to dock the ATV
 - The Dock - overlook the boat launch, lake, and set sail in boat, kayak, or floatie
 
-## Ride the ATV!
-
-- We'll need some help to work the land. Come ride [The ATV](https://ranger.polaris.com/en-us/ranger-crew-570/)!
-
 ## Water Access
 
 ![Clear water](images/land-photos/20200804_100600_HDR.jpg)
 
-- Until we tame the land, come drop in kayaks, canoes, and more at the convenient boat access (just over the hill and though the woods - or a short drive) at Bear Head Lake State Park Public Access.
+- Until we tame the land, drop in kayaks, canoes, and more at the convenient boat access (just over the hill and though the woods - or a short drive) at Bear Head Lake State Park Public Access.
 
 - Shore access provides [gentle increase out to a max depth of 36'](images/EaglesNestLake2-depth-map.PNG).
 
@@ -67,7 +63,7 @@ Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 ## Local Wildlife
 
 - Lots of [bald eagles in next door Bear Head State Park](https://www.dnr.state.mn.us/birds/eagles/summer_map.html)!
-- Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html), 
+- Nearby Wildlife Research Institute [Field Station](https://www.bearstudy.org/website/about-wri/field-station.html) has spotted [bears](http://bearstudy.org/website/images/stories/Documents/Living_with_Bears-in-Eagles_Nest_Township.pdf), wolves, [30 types of mammals](https://www.bearstudy.org/website/about-wri/wildlife-seen/mammals.html),
 [132 species of birds](https://www.bearstudy.org/website/about-wri/wildlife-seen/birds.html), and [more](https://www.bearstudy.org/website/about-wri/wildlife-seen/other.html).
 
 ## Animals Seen On-Site
