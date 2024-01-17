@@ -13,7 +13,7 @@
 
 ## Plan -  Main Level
 
-[1424_trygg_ely_plan_main_level_23-12-11-one-sliding.pdf](1424_trygg_ely_plan_main_level_23-12-11-one-sliding.pdf)
+[1424_trygg_ely_plan_main_level_24-01-17-entry_gf7.pdf](1424_trygg_ely_plan_main_level_24-01-17-entry_gf7.pdf)
 
 ## Plan - Attic Truss Upper Level
 
@@ -23,3 +23,9 @@
 ## Interior
 
 [1424_trygg_ely_interior_west_wall_living_room_23-08-15.pdf](1424_trygg_ely_interior_west_wall_living_room_23-08-15.pdf)
+
+## Entryway (2024-01-17)
+
+![Entry Plan](2024-01-17-EntryPlan.png)
+
+![New Entry Window](2024-01-17-NewEntryWindow.jpg)
