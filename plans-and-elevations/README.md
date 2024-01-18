@@ -1,7 +1,6 @@
 # Updated Plans and Elevations
 
-## 4 Elevations 
-
+## 4 Elevations
 
 [1424_trygg_ely_elevation_facing_east_23-08-16.pdf](1424_trygg_ely_elevation_facing_east_23-08-16.pdf)
 
