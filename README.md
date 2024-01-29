@@ -28,7 +28,7 @@ Only 15 min from Jeff and Holly (Eagles Nest Lake 1) by land or boat.
 - Marvin Windows
 - Paula - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
 - Dave - Lossing Building Center, 30 North Drive, Babbitt, Mn 55706
-- Laura - Floor to Ceiling
+- Laura - Floor to Ceiling, 8401 Enterprise Dr N, Virginia, MN 55792
 - Sue - Froe Bros Drilling LLC (set up Spring 2024 site visit)
 
 ## Resources
