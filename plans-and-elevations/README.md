@@ -40,7 +40,7 @@
 - Interior trim (bare pine or white): **White**
 - Interior door (bare pine or white): **White**
 - Interior door hardware finish color: **sliver, curved lever style**
-- Cabinets: Omega, White ([visualizer](https://www.omegacabinetry.com/style-design/learn-about-cabinetry/cabinet-finishes/kitchen-visualizer))
+- Cabinets: Omega, White, [visualizer](https://www.omegacabinetry.com/style-design/learn-about-cabinetry/cabinet-finishes/kitchen-visualizer), [tips](https://www.rtacabinetsreviews.com/omega-cabinets-reviews-prices-and-tips/)
 - Flooring: Light wood color, varied, narrow boards, white trim
 
 Example of siding color and roof color:
@@ -71,11 +71,11 @@ Example of interior door handles:
 
 <img src="https://www.harneyhardware.com/cdn/shop/products/87719_1024x1024.jpg?v=1680034315" width="300" alt="Silver, Curved Lever Style Interior Door Handles">
 
-Example of flooring color with white trim (first choice):
+Example of light, wood-colored flooring color with white trim (first choice, thinner boards are fine):
 
 <img src="images/flooring_wood_white_trim1.png" width="500" alt="Flooring in Light Wood Color with White Trim (First Choice)">
 
-Example of flooring color with white trim (also good):
+Example of another flooring color with white trim (also good):
 
 <img src="images/flooring_wood_white_trim2.png" width="500" alt="Flooring in Light Wood Color with White Trim (Also Good)">
 
