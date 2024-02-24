@@ -26,20 +26,20 @@
 
 ![Entry Plan](2024-01-17-EntryPlan.png)
 
-![New Entry Window](2024-01-17-NewEntryWindow.jpg)
+![New Entry Window](2024-01-17-NewEntryWindow.JPG)
 
 ## Selections
 
-- Exterior siding color: Diamond Kote® LP® SmartSide® engineered wood siding RigidStack lap siding in Mahogany
-- Soffit and fascia color: Match Forest Green metal roof color or else White -  will have white security lights on the soffit
-- Roof metal color: Forest Green  
-- Exterior window color: White
-- Interior of window (bare pine or white): White
-- Two Exterior doors: Forest Green with upper half window, 36" wide, 80" tall, 1 3/4" thick, 6-panel, insulated, steel door, with deadbolt and door knob
-- Over head garage door: Forest Green Color, Insulated Steel Garage Doors, Thermacore® Collection, one 2-car garage door with garage door opener, no windows, Flush Panel (5740), R-Value 17.5?
-- Interior trim (bare pine or white): White
-- Interior door (bare pine or white): White
-- Door hardware finish color: sliver, curved lever style
+- Exterior siding color: Diamond Kote® LP® SmartSide® engineered wood siding RigidStack lap siding in **Mahogany**
+- Soffit and fascia color: **Match Forest Green metal roof color or else White** -  will have white security lights on the soffit
+- Roof metal color: **Forest Green**
+- Exterior window color: **White**
+- Interior of window (bare pine or white): **White**
+- Two Exterior doors: **Matching Green with upper half windows**, 36" wide, 80" tall, 1 3/4" thick, 6-panel, insulated, steel door, with deadbolt and door handle/knob
+- Overhead garage door: **Hunter Green Color**, Insulated Steel Garage Doors, Thermacore® Collection, one 2-car garage door with garage door opener, no windows, Flush Panel (5740), R-Value 17.5?
+- Interior trim (bare pine or white): **White**
+- Interior door (bare pine or white): **White**
+- Interior door hardware finish color: **sliver, curved lever style**
 - Cabinets: Omega, White ([visualizer](https://www.omegacabinetry.com/style-design/learn-about-cabinetry/cabinet-finishes/kitchen-visualizer))
 - Flooring: Light wood color, varied, narrow boards, white trim
 
