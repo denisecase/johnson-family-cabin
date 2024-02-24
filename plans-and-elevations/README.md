@@ -89,6 +89,6 @@ Example of the kitchen layout we hope to recreate (except white cabinets with li
 
 <img src="images/kitchen_cabinets_model2.png" width="500" alt="Model Kitchen Layout">
 
-The Old Clusiua Cabin (from childhood):
+The Old Clusiau Cabin (from childhood):
 
 <img src="images/clusiau_cabin.png" width="500" alt="The Old Clusiua Cabin">
