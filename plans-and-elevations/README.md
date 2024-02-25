@@ -48,11 +48,10 @@
 
 - Mohawk PureTech uses Uniclic®
 - Mohawk RevWood uses Uniclic®
-- Mohawk SolidTech uses Uniclic®, clicked together quickly and simply, thanks to the ingenious shape of the tongue and groove.
+- Mohawk SolidTech uses Uniclic®, clicked together quickly and simply, tongue and groove.
 - Mohawk TecWood - any glue, nail, staple or float
-- Mohawk UltimateFlex is a versatile, durable and 100% waterproof luxury vinyl tile and plank flooring. Perfect for damp areas like kitchens and baths, high traffic areas and multi-level living, the glue-down flooring installs easily and allows for replacement of individual planks, saving time and money. UltimateFlex goes down fast and stays down longer for truly hassle-free flooring.
+- Mohawk UltimateFlex versatile, durable and 100% waterproof luxury vinyl tile and plank flooring. Perfect for damp areas like kitchens and baths, high traffic areas and multi-level living, the glue-down flooring installs easily and allows for replacement of individual planks, saving time and money. UltimateFlex goes down fast and stays down longer for truly hassle-free flooring.
 - Mohawk RevWood Plus - Pet Friendly Laminated Wood - scratch resistant
-- 
 - Mohawk Home 12MM Thick x 6.14in x 47.25in Laminate Wood Plank Flooring (18.14 sq ft/ctn)
   - SplashDefense® Waterproof Surface and Water-tight Joints
   - CleanProtect® Technology with Antimicrobial Properties Built in to Protect the Floor
@@ -71,6 +70,7 @@
     - Not Bedford (too dark)
     - If Brennan 2mm, [Magnolia is very consistent color](https://www.floortoceilingvirginia.com/flooring/vinyl/products/mohawk-brennan-2mm-multi-strip-magnolia-cc003-sc737/)
     - Mannington Adura Apex Nordic Oak, 3x price?, likely too expensive, [Cabin](https://www.floortoceilingvirginia.com/flooring/vinyl/products/mannington-aduraapex-nordic-oak-cabin-apx111/) or [Chalet](https://www.floortoceilingvirginia.com/flooring/vinyl/products/mannington-aduraapex-nordic-oak-chalet-apx110/)
+
 - Home » Flooring » Laminate » Products » Mannington Restoration Collection® Black Forest Oak [Weathered 22201](https://www.floortoceilingvirginia.com/flooring/laminate/products/mannington-restoration-collection-black-forest-oak-weathered-22201/) or [Antiqued 22200](https://www.floortoceilingvirginia.com/flooring/laminate/products/mannington-restoration-collection-black-forest-oak-antiqued-22200/)
 
 ## Images
