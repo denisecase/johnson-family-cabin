@@ -12,21 +12,15 @@
 
 ## Plan -  Main Level
 
-[1424_trygg_ely_plan_main_level_24-01-17-entry_gf7.pdf](1424_trygg_ely_plan_main_level_24-01-17-entry_gf7.pdf) - entry window
+[1424_trygg_ely_plan_main_level_24-03-04-entry_gf8.pdf](1424_trygg_ely_plan_main_level_24-03-04-entry_gf8.pdf) - door revisions
 
 ## Plan - Attic Truss Upper Level
 
-[1424_trygg_ely_plan_upper_level_attic_truss_23-08-15.pdf](1424_trygg_ely_plan_upper_level_attic_truss_23-08-15.pdf)
+[1424_trygg_ely_plan_upper_level_attic_truss_24-03-04_a7.pdf](1424_trygg_ely_plan_upper_level_attic_truss_24-03-04_a7.pdf) - add door to bedroom at top of stairs
 
 ## Interior
 
 [1424_trygg_ely_interior_west_wall_living_room_23-08-15.pdf](1424_trygg_ely_interior_west_wall_living_room_23-08-15.pdf)
-
-## Entryway (2024-01-17)
-
-![Entry Plan](2024-01-17-EntryPlan.png)
-
-![New Entry Window](2024-01-17-NewEntryWindow.JPG)
 
 ## Selections
 
