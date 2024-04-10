@@ -12,7 +12,7 @@
 
 ## Plan -  Main Level
 
-[1424_trygg_ely_plan_main_level_24-03-24-entry_gf9.pdf](1424_trygg_ely_plan_main_level_24-03-24-entry_gf9.pdf) - main bath (original) with doors
+[1424_trygg_ely_plan_main_level_24-04-10-prior_bath_gf9.pdf](1424_trygg_ely_plan_main_level_24-04-10-prior_bath_gf9.pdf) - main bath (original) with doors
 
 ## Plan - Attic Truss Upper Level
 
