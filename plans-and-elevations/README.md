@@ -46,7 +46,7 @@ Interior door hardware finish color: **sliver, curved lever style**
 
 Cabinets: Omega, White, [visualizer](https://www.omegacabinetry.com/style-design/learn-about-cabinetry/cabinet-finishes/kitchen-visualizer), [tips](https://www.rtacabinetsreviews.com/omega-cabinets-reviews-prices-and-tips/)
 
-Counters: Likely reasonably cost-effective granite.
+Counters: Likely reasonably cost-effective quartz.
 
 Carpet: [Parade I - 406 Ivory Tower](https://www.floortoceilingvirginia.com/flooring/carpet/products/dream-weaver-parade-ivory-tower-8265_406/)
 
