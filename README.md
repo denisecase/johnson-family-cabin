@@ -79,6 +79,7 @@ Birds
 - [Ducks, Mallard](https://upload.wikimedia.org/wikipedia/commons/c/c0/Female_Mallard_with_ducklings.jpg)
 - [Woodpecker, Downy(?)](https://www.dnr.state.mn.us/birds/woodpeckers.html)
 - [Woodpecker, Pileated](https://www.dnr.state.mn.us/birds/woodpeckers.html)
+- [Merganser, Common](https://www.allaboutbirds.org/guide/Common_Merganser/photo-gallery/302113651)
 
 Mammals
 
