@@ -46,69 +46,8 @@ Interior door hardware finish color: **sliver, curved lever style**
 
 Cabinets: Omega, White, [visualizer](https://www.omegacabinetry.com/style-design/learn-about-cabinetry/cabinet-finishes/kitchen-visualizer), [tips](https://www.rtacabinetsreviews.com/omega-cabinets-reviews-prices-and-tips/)
 
-Counters: Likely reasonably cost-effective quartz.
-
-Carpet: [Parade I - 406 Ivory Tower](https://www.floortoceilingvirginia.com/flooring/carpet/products/dream-weaver-parade-ivory-tower-8265_406/)
-
-Flooring: [Responsive Allure Hickory Knob](https://flooringmarket.com/collections/responsive-allure/products/responsive-allure-hickory-knob), 22 mil, 7", 48", 10 , 21.02 Sq.Ft/Carton
-
-![flooring features](images/ResponsiveAllureHickoryKnobFeatures.JPG)
-
-Bathroom - downstairs - molded shower with sliding glass door - Like this [HD Option](https://www.homedepot.com/p/Ella-Liberty-60-in-x-33-in-x-77-in-AcrylX-1-Piece-Shower-Wall-and-Shower-Pan-in-White-with-3-Loose-Grab-Bars-Left-Seat-E-6032LWH-PKG1SS/)
-
-![main shower](images/main_shower_with_bars_and_seat.png)
-
-[main shower doors](images/main_shower_sliding_glass_door.png)
-
-Bathroom - upstairs
 
 ## Images
-
-Example of siding color and roof color:
-
-<img src="https://images.diamondkotesiding.com/wp-content/uploads/2019/12/12135811/dk_1151_mahogany_rs_2.jpg" width="500" alt="Diamond Kote Mahogany">
-
-<img src="images/mahogany_best.png" width="500" alt="Diamond Kote Mahogany">
-
-<img src="images/mahogany_best2.png" width="500" alt="Diamond Kote Mahogany">
-
-<img src="images/mahogany_white.png" width="500" alt="Diamond Kote Mahogany">
-
-<img src="images/mahogany_white2.png" width="500" alt="Diamond Kote Mahogany">
-
-Example of exterior doors (except one 2-car door with flush panels):
-
-<img src="images/exterior_doors_green.JPG" width="500" alt="Exterior Doors with Flush Panels in Hunter Green">
-
-Overhead garage door (hunter green, no windows, flush panels):
-
-<img src="images/overhead_garage_door_2_car_hunter_green.JPG" width="500" alt="Overhead Garage Door with Flush Panels in Hunter Green">
-
-Overhead garage door (just for illustration of flush panels):
-
-<img src="images/overhead_garage_door_2_car_just_for_illustration.JPG" width="500" alt="Overhead Garage Door with Flush Panels (just for illustration)">
-
-Example of interior door handles:
-
-<img src="https://www.harneyhardware.com/cdn/shop/products/87719_1024x1024.jpg?v=1680034315" width="300" alt="Silver, Curved Lever Style Interior Door Handles">
-
-Example of light, wood-colored flooring color with white trim (first choice, thinner boards are fine):
-
-<img src="images/flooring_wood_white_trim1.png" width="500" alt="Flooring in Light Wood Color with White Trim (First Choice)">
-
-Example of another flooring color with white trim (also good):
-
-<img src="images/flooring_wood_white_trim2.png" width="500" alt="Flooring in Light Wood Color with White Trim (Also Good)">
-
-Example of white Omega cabinets:
-
-<img src="images/white_kitchen_cabinets_omega.JPG" width="500" alt="White Omega Cabinets">
-
-Example of the kitchen layout we hope to recreate (except white cabinets with lighter wood flooring):
-
-<img src="images/kitchen_cabinets_model1.png" width="500" alt="Model Kitchen Layout">
-
-<img src="images/kitchen_cabinets_model2.png" width="500" alt="Model Kitchen Layout">
 
 The Old Clusiau Cabin (from childhood):
 
